@@ -10,6 +10,9 @@
   justify-content: space-around;
 }
 
+.image_container {
+    width: inherit;
+}
 .image_container img {
   width: inherit;
 }
