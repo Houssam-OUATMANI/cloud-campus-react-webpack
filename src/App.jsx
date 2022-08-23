@@ -1,9 +1,9 @@
 import React from "react";
-
+import Profile from "./components/Profile";
 export default function App() {
   return (
     <div className="app">
-      <h1>Composant App</h1>
+      <Profile nom="Dupont" prenom="Jean" />
     </div>
   );
 }
