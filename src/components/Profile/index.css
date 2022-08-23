@@ -1,0 +1,15 @@
+.profile {
+  padding: 1rem;
+  border: 5px solid chartreuse;
+  width: 500px;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.image_container img {
+  width: inherit;
+}

@@ -1,5 +1,6 @@
 import React from "react";
 import jeanPicture from "../../images/jean.jpg"
+import './index.css'
 const Profile = ({ nom, prenom }) => {
   return (
     <div className="profile">
